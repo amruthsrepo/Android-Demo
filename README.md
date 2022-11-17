@@ -1,6 +1,6 @@
 # Android demo app- Jobs List
 
-This is an applicaion with a simple capability to retrieve a list of Jobs, filter them and display in a specific sorting order.
+This is a Java applicaion with a simple capability to retrieve a list of Jobs, filter them and display in a specific sorting order.
 
 ## Loading screen
 
