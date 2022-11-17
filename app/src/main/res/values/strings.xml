@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Android Demo</string>
+    <string name="loading_text">Loading</string>
+    <string name="app_title">Jobs list</string>
+    <string name="jobs_url">https://fetch-hiring.s3.amazonaws.com/hiring.json</string>
+    <string name="fail_message">Failed to load data.</string>
+</resources>
